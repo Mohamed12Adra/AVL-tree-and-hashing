@@ -1,0 +1,33 @@
+Country: china , total number of tourists: 14.0
+wuhan 11.0
+shanghai 3.0
+====================================================================================
+Country: usa , total number of tourists: 51.1
+newyork 4.0
+washington 7.6
+california 39.5
+====================================================================================
+Country: spain , total number of tourists: 5.4
+madrid 2.0
+barcelona 3.4
+====================================================================================
+Country: germany , total number of tourists: 9.0
+berlin 9.0
+====================================================================================
+Country: italy , total number of tourists: 1.35
+milano 1.35
+====================================================================================
+Country: palestine , total number of tourists: 7.4
+gaza 5.4
+ramallah 2.0
+====================================================================================
+Country: britain , total number of tourists: 26.9
+manchester 22.0
+liverpool 4.9
+====================================================================================
+Country: egypt , total number of tourists: 9.0
+cairo 9.0
+====================================================================================
+Country: japan , total number of tourists: 15.0
+tokyo 15.0
+====================================================================================

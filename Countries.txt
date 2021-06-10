@@ -1,0 +1,15 @@
+1=wuhan=china=11
+2=newyork=usa=4
+3=shanghai=china=3
+4=madrid=spain=2
+5=berlin=germany=9
+6=barcelona=spain=3.4
+7=washington=usa=7.6
+8=milano=italy=1.35
+9=california=usa=39.5
+10=gaza=palestine=5.4
+11=manchester=britain=22
+12=liverpool=britain=4.9
+13=cairo=egypt=9
+14=tokyo=japan=15
+15=ramallah=palestine=2

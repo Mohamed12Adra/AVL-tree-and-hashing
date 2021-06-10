@@ -1,0 +1,8 @@
+AVL Countries
+[]
+-1
+====================================
+Hash Table Cities
+[City [CityName=washington], null, null, null, null, null, null, null, null, null, null, null, null, null, null, City [CityName=milano], null, null, null, null, City [CityName=newyork], null, null, null, null, null, null, null, null, null, null]
+Size=31
+hash function->  f(x)=h(x)+i^2 , i>0 , quadratic probing
